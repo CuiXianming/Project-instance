@@ -1,0 +1,16 @@
+{
+  "id": "1720678",
+  "name": "豆瓣首页",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4397910",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
